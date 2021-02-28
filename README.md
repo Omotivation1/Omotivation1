@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there :wave:, reindeer man here 🦌
 
-<!--
-**Omotivation1/Omotivation1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Information
 
-Here are some ideas to get you started:
+Here's some stuff about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :coffee: | Coffee Addict 
+- 🦌 | Likes reindeers  *(should be obvious lol)*
+- ⚡ | Extrovert
+
+## Social Medias
+
+- 🕊️ | Twitter: Omotivation1
+- 📸 | Instagram: Omotivation1
+- 😺 | Github: Omotivation1
+- 🎮 | Xbox: Omotivation1
+
+## Github Stats
+[![Omotivation1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omotivation1&count_private=true&theme=blue-green&show_icons=true)](https://github.com/Omotivation1)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omotivation1&theme=blue-green&layout=compact&langs_count=10)](https://github.com/Omotivation1) 
